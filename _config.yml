@@ -1,6 +1,5 @@
 title: Researcher
 url: "https://msiddhu.github.io"
-baseurl: "/"
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
@@ -18,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/"
+   link: ""
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
