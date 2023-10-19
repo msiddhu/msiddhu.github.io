@@ -4,22 +4,37 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="siddhartha_malladi.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a Masters Student in Computer Science at **[Stony Brook University](https://www.cs.stonybrook.edu/)** as of Fall 2023.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+- Courses - [CSE 512](https://sites.google.com/view/sbu-cse512-2023/home) Machine Learning, [CSE 535](http://mpaxos.com/teaching/ds/23fa/) with Prof. Shuai Mu.
+- Teaching Assistant @ [CSE 114](https://sites.google.com/cs.stonybrook.edu/jhoblos-cse114/) taught by Prof. Jalaa Hoblos.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Distributed Systems, Computer Vision
 
-## Publications
+## Education
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+Year | Course | University
+-----|-------|--------
+20023 - Present | Master of Science in CS  | Stony Brook University, NY, USA
+2018-2022 | BTech In IT(8.5/10) | Jawaharlal Nehru Technological University
 
-## Typography
+## Skills
+
+<style>
+    o {color: Orange}
+    g {color: Green}
+</style>
+
+Experience in Each Skill : <g>1-2 years</g>, <o>More Than 2 years</o>
+
+**Programming** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o>  
+**Web Development** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o> 
+**Technologies** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o> 
+**Cloud Platforms** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o>
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
@@ -38,6 +53,12 @@ Here is a horizontal rule
 Here is a blockquote
 
 > To a great mind, nothing is little
+
+
+## Publications
+
+1. F.Bar, J.Doe: Effects of having a placeholder of a name
+2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
 ## References
 
