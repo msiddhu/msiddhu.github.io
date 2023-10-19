@@ -26,15 +26,15 @@ Year | Course | University
 
 <style>
     o {color: Green}
-    g {color: Blue}
+    b {color: Blue}
 </style>
 
-Experience in Each Skill : <g>1-2 years</g>, <o>More Than 2 years</o>
+Experience in Each Skill : <b>1-2 years</b>, <o>More Than 2 years</o>
 
-**Programming** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o>  \
-**Web Development** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o> \
-**Technologies** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o> \
-**Cloud Platforms** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o> \
+**Programming** : <o> C </o> | <o> CPP </o> | <o> Java </o>| <o> Python <o/> | <b> SQL </b> <br/>
+**Web Development** : <o> HTML </o> | <b> Javascript </b> | <b> CSS </b>| <o> SpringBoot </o> | <b> Django</b> <br/>
+**Technologies** : <o> GIT </o> | <o> gRPC </o> | <o> Kafka </o>| <o> Python </o> <br/>
+**Platforms** : <o> Linux/Unix <o> | <b> Amazon AWS </b> | <o> Firebase </o> <br/>
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
