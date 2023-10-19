@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [siddhartha.malladi@stonybrook.edu](mailto:siddhartha.malladi@stonybrook.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1-6319478765](tel:+1-6319478765)
 
 ---
 
