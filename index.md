@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am a Masters Student in Computer Science at **[Stony Brook University](https://www.cs.stonybrook.edu/)** as of Fall 2023.
 
-- Courses - [CSE 512](https://sites.google.com/view/sbu-cse512-2023/home) Machine Learning, [CSE 535](http://mpaxos.com/teaching/ds/23fa/) with Prof. Shuai Mu.
+- Courses - [CSE 512](https://sites.google.com/view/sbu-cse512-2023/home) Machine Learning, [CSE 535](http://mpaxos.com/teaching/ds/23fa/) Distributed systems with Prof. Shuai Mu.
 - Teaching Assistant @ [CSE 114](https://sites.google.com/cs.stonybrook.edu/jhoblos-cse114/) taught by Prof. Jalaa Hoblos.
 
 ## Research Interest
@@ -25,16 +25,16 @@ Year | Course | University
 ## Skills
 
 <style>
-    o {color: Orange}
-    g {color: Green}
+    o {color: Green}
+    g {color: Blue}
 </style>
 
 Experience in Each Skill : <g>1-2 years</g>, <o>More Than 2 years</o>
 
-**Programming** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o>  
-**Web Development** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o> 
-**Technologies** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o> 
-**Cloud Platforms** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o>
+**Programming** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o>  \
+**Web Development** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o> \
+**Technologies** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o> \
+**Cloud Platforms** : <o> C <o> | <o> CPP <o> | <o> Java <o>| <o> Python <o> \
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
@@ -54,11 +54,10 @@ Here is a blockquote
 
 > To a great mind, nothing is little
 
-
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. S. Malladi, S. Suguna Mallika, Krishna Sai Prahlad M : [Predict Diabetic Retinopathy in Early-Stages: A Novel Ensemble Model using Efficient nets and an Automated System to Detect the Disease](https://www.ijitee.org/portfolio-item/l933511111222)
+2. Bipin B. JayaSingh, S. Malladi; G. Suryachaitanya; A. Dheeraj: [A Marker-based AR System on Image Shadowing for Tourists](https://ieeexplore.ieee.org/abstract/document/10099856)
 
 ## References
 
