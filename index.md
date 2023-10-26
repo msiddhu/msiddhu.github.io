@@ -1,3 +1,4 @@
+
 ---
 layout: default
 ---
@@ -19,7 +20,7 @@ Distributed Systems, Computer Vision
 
 Year | Course | University
 -----|-------|--------
-20023 - Present | Master of Science in CS  | Stony Brook University, NY, USA
+2023 - Present | Master of Science in CS  | Stony Brook University, NY, USA
 2018-2022 | BTech In IT(8.5/10) | Jawaharlal Nehru Technological University
 
 ## Skills
@@ -31,11 +32,11 @@ Year | Course | University
 
 Experience in Each Skill : <b>1-2 years</b>, <o>More Than 2 years</o>
 
-**Programming** : <o> C </o> | <o> CPP </o> | <o> Java </o>| <o> Python <o/> | <b> SQL </b> <br/>
-**Web Development** : <o> HTML </o> | <b> Javascript </b> | <b> CSS </b>| <o> SpringBoot </o> | <b> Django</b> <br/>
-**Technologies** : <o> GIT </o> | <o> gRPC </o> | <o> Kafka </o>| <o> Python </o> <br/>
-**Platforms** : <o> Linux/Unix <o> | <b> Amazon AWS </b> | <o> Firebase </o> <br/>
-
+**Programming** : <o> C </o> , <o> CPP </o> , <o> Java </o> , <o> Python <o/> , <b> SQL </b> <br/>
+**Web Development** : <o> HTML </o> , <b> Javascript </b> , <b> CSS </b> , <o> SpringBoot </o> , <b> Django</b> <br/>
+**Technologies** : <o> GIT </o> , <o> gRPC </o> , <o> Kafka </o> , <o> Python </o> <br/>
+**Platforms** : <o> Linux/Unix <o> , <b> Amazon AWS </b> , <o> Firebase </o> <br/>
+<!-- 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
@@ -52,14 +53,15 @@ Here is a horizontal rule
 
 Here is a blockquote
 
-> To a great mind, nothing is little
+> To a great mind, nothing is little -->
 
 ## Publications
 
 1. S. Malladi, S. Suguna Mallika, Krishna Sai Prahlad M : [Predict Diabetic Retinopathy in Early-Stages: A Novel Ensemble Model using Efficient nets and an Automated System to Detect the Disease](https://www.ijitee.org/portfolio-item/l933511111222)
 2. Bipin B. JayaSingh, S. Malladi; G. Suryachaitanya; A. Dheeraj: [A Marker-based AR System on Image Shadowing for Tourists](https://ieeexplore.ieee.org/abstract/document/10099856)
 
-## References
+<!-- ## References
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* John Doe: Associate Professor, Department of Computer Science, Ipsum -->
+
