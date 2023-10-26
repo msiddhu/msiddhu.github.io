@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 ## About Me
 
 <img class="profile-picture" src="siddhartha_malladi.jpg">
@@ -33,8 +29,11 @@ Year | Course | University
 Experience in Each Skill : <b>1-2 years</b>, <o>More Than 2 years</o>
 
 Programming : <o> C </o> , <o> CPP </o> , <o> Java </o> , <o> Python <o/> , <b> SQL </b> <br/>
+
 Web Development : <o> HTML </o> , <b> Javascript </b> , <b> CSS </b> , <o> SpringBoot </o> , <b> Django</b> <br/>
+
 Technologies : <o> GIT </o> , <o> gRPC </o> , <o> Kafka </o> , <o> Python </o> <br/>
+
 Platforms : <o> Linux/Unix <o> , <b> Amazon AWS </b> , <o> Firebase </o> <br/>
 
 {% comment %} 
