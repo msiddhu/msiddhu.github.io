@@ -20,7 +20,7 @@ Distributed Systems, Computer Vision
 
 Year | Course | University
 -----|-------|--------
-2023 - Present | Master of Science in CS  | Stony Brook University, NY, USA
+2023-Present | Master of Science in CS  | Stony Brook University, NY, USA
 2018-2022 | BTech In IT(8.5/10) | Jawaharlal Nehru Technological University
 
 ## Skills
@@ -32,11 +32,12 @@ Year | Course | University
 
 Experience in Each Skill : <b>1-2 years</b>, <o>More Than 2 years</o>
 
-**Programming** : <o> C </o> , <o> CPP </o> , <o> Java </o> , <o> Python <o/> , <b> SQL </b> <br/>
-**Web Development** : <o> HTML </o> , <b> Javascript </b> , <b> CSS </b> , <o> SpringBoot </o> , <b> Django</b> <br/>
-**Technologies** : <o> GIT </o> , <o> gRPC </o> , <o> Kafka </o> , <o> Python </o> <br/>
-**Platforms** : <o> Linux/Unix <o> , <b> Amazon AWS </b> , <o> Firebase </o> <br/>
-<!-- 
+Programming : <o> C </o> , <o> CPP </o> , <o> Java </o> , <o> Python <o/> , <b> SQL </b> <br/>
+Web Development : <o> HTML </o> , <b> Javascript </b> , <b> CSS </b> , <o> SpringBoot </o> , <b> Django</b> <br/>
+Technologies : <o> GIT </o> , <o> gRPC </o> , <o> Kafka </o> , <o> Python </o> <br/>
+Platforms : <o> Linux/Unix <o> , <b> Amazon AWS </b> , <o> Firebase </o> <br/>
+
+{% comment %} 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
@@ -54,6 +55,10 @@ Here is a horizontal rule
 Here is a blockquote
 
 > To a great mind, nothing is little -->
+
+{% endcomment %}
+
+
 
 ## Publications
 
