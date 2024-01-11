@@ -17,7 +17,7 @@ Distributed Systems, Computer Vision
 Year | Course | University
 -----|-------|--------
 2023-Present | Master of Science in Computer Science (4.0/4.0) | Stony Brook University, NY, USA
-2018-2022 | BTech In Information Technology (3.4/4.0) | Jawaharlal Nehru Technological University
+2018-2022 | Bachelor of Technology in Information Technology (3.4/4.0) | Jawaharlal Nehru Technological University
 
 ## Skills
 
