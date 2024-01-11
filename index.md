@@ -10,7 +10,7 @@ Hi! I am a Masters Student in Computer Science at **[Stony Brook University](htt
 
 ## Research Interest
 
-Distributed Systems, Computer Vision
+Distributed Systems, Machine Learning
 
 ## Education
 
